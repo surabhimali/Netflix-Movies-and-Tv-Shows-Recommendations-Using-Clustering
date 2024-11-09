@@ -1,6 +1,7 @@
 # Clustering
-Netflix movies and TV shows clustering
 # Netflix Content Analysis Project
+
+Netflix movies and TV shows clustering
 
 ## Overview
 This project analyzes Netflix's content library as of 2019, exploring trends in movies and TV shows. The analysis is based on data from Flixable, a third-party Netflix search engine. The project implements various clustering algorithms to understand content patterns and includes a recommendation system.
@@ -81,13 +82,6 @@ The project includes a recommendation system based on:
 ## Conclusion
 The analysis reveals that while Netflix maintains a movie-focused library, there's strategic content distribution across different audience segments. The platform shows consistent growth in content addition, with clear patterns in genre preferences and regional content distribution.
 
-## Future Work
-Potential areas for enhancement:
-1. Integration with IMDB ratings
-2. Real-time content analysis
-3. Enhanced recommendation algorithms
-4. User behavior analysis
-5. Seasonal trend analysis
 
 ## Requirements
 - Python 3.x
@@ -97,11 +91,4 @@ Potential areas for enhancement:
 - Matplotlib
 - Seaborn
 
-## Setup and Usage
-[Add installation and usage instructions based on your project structure]
 
-## Contributors
-[Add contributor information]
-
-## License
-[Add license information]
