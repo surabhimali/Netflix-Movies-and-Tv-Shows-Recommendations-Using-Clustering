@@ -1,5 +1,4 @@
-# Clustering
-# Netflix Content Analysis Project
+# Netflix Content Analysis Project - Clustering
 
 Netflix movies and TV shows clustering
 
